@@ -1,2 +1,9 @@
 # Mapper-Interactive-with-geographic-analysis
-Adding geographic analysis modules into Mapper Interactive
+Adding geographic analysis modules (show point location and edge bundling) into Mapper Interactive (https://github.com/MapperInteractive/MapperInteractive)
+
+# Author
+Jiuying Han
+
+# Results
+![image](https://user-images.githubusercontent.com/90343611/147511831-c1791610-d5d7-492f-93bd-bbbd5e70e6ee.png)
+![image](https://user-images.githubusercontent.com/90343611/147511899-7e4e9c6d-38b0-492b-922c-96a728719f72.png)
