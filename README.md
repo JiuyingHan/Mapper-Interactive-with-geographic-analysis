@@ -1,5 +1,6 @@
 # Mapper-Interactive-with-geographic-analysis
 The original Mapper Interactive software could be found here https://github.com/MapperInteractive/MapperInteractive.
+
 Two additional geographic analysis modules (show point location and edge bundling) were added into Mapper Interactive to display locations of the spatial point and edge data. 
 
 # Description
